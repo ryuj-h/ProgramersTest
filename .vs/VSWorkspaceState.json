@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\level1"
+    "\\level1",
+    "\\level2"
   ],
-  "SelectedNode": "\\level2",
+  "SelectedNode": "\\level2\\피보나치 수.cpp",
   "PreviewInSolutionExplorer": false
 }
